@@ -1,5 +1,5 @@
 # cpp-rss
-Sample c++ REST service implementation using "served"
+Sample c++ REST server implementation using "served"
 
 
 ## Installation
