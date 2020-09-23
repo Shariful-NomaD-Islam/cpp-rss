@@ -51,11 +51,11 @@ make
 ### Available example:
 
 ```bash
-curl "http://localhost:9191/api/version"
-curl "http://localhost:9191/api/greeting?name=_NAME_"
-curl "http://localhost:9191/api/named-user/nomad"
-curl "http://localhost:9191/api/patern-user/8"
-curl "http://localhost:9191/api/get"
+curl "http://localhost:9091/api/version"
+curl "http://localhost:9091/api/greeting?name=_NAME_"
+curl "http://localhost:9091/api/named-user/nomad"
+curl "http://localhost:9091/api/patern-user/8"
+curl "http://localhost:9091/api/get"
 curl -d '{ " key ": " value " }' -H " Content - Type : application / json " -X POST http://localhost:9191/api/post/45
 ```
 
